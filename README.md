@@ -1,1 +1,1 @@
-Jesus reigns
+This repository contains solutions to shell tasks
